@@ -1,6 +1,6 @@
-# Login App
+# Calculator App
 
-Aplikacja logowania zbudowana w React, z prostym kalkulatorem.
+Aplikacja prostego kalkulatorem zbudowana w React.
 Aplikacja używa Cypress do automatycznych testów.
 
 ## Uruchomienie aplikacji
